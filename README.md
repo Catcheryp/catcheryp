@@ -6,3 +6,7 @@
 - 🤔 业余CTFer
 - ✍️ 我的博客 <a href="https://blog.catcheryp.cn" target="_blank">blog</a>
 - 💬 联系我 catcheryp@gmail.com
+
+![](https://www.hackthebox.com/badge/image/54228)
+
+![](https://github-readme-stats.vercel.app/api?username=Catcheryp&show_icons=true&hide_border=true)
